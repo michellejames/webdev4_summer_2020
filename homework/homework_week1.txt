@@ -1,0 +1,17 @@
+Make a simple landing page for a product company. The company can either be real or fictional. Here are some examples of what I’m looking for:
+https://www.skullcandy.com/
+https://www.allbirds.com/
+https://www.blissworld.com/
+http://collect.scentos.com/ 
+The site itself should be responsive and have all basic website components, such as: nav, header, main section and footer.
+
+Your site should use SEO and page speed optimized references. At a minimum, the site should include:
+
+Appropriate Title Tag
+Appropriate Meta Description
+All images should be sized appropriately ((manually or with online tool) as have alt-text 
+You will be graded on the correct usage of SEO and page optimization. Keep in mind that the main goal of this assignment is to get you comfortable incorporating techniques like SEO and Page Load Optimization to your code. We will build on this website in coming classes.
+
+Bonus Points if you are able to implement a page loading image that is displayed when first entering the page.
+
+Submit a link to the git repository for this assignment.

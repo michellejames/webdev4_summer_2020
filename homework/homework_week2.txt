@@ -1,0 +1,21 @@
+Expand your website from last weeks homework and add accessibility features. Also, add in feedback you’ve received during class. 
+If not already responsive, make your site responsive and use semantic HTML elements wherever it makes sense.
+
+In addition to your landing page, add one subpage. The topic of the subpage is up to you. I’m suggesting a product page to be able to work with different links or a contact page, that includes an input field.
+
+At a minimum, your site should include:
+A Name field
+An Email field
+At least one set of radio buttons
+At least one checkbox
+At least one expandable text area
+All inputs should have an associated label
+
+The entire site should be navigable with keyboard only, and each field should be clearly described when read by a screen reader.
+Your site must have no warnings or errors using accessibility validation chrome extension that we looked at in class.
+
+You will be graded on the correct usage of tools to help you achieve good usability.
+
+Bonus points if you are able to implement a “Skip to Main Content” button.
+
+Submit a link to the git repository for this assignment.

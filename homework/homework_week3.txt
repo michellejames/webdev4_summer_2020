@@ -1,0 +1,10 @@
+Expand your website from last weeks homework. Add/update the website based on in-class feedback.
+
+If not already styled, add styling to your website and try to make it into a portfolio piece. You don't have to design this website from scratch. Browse websites you like and pick design elements that speak to you and would work for your website.  
+If not already responsive, make your site responsive and use semantic HTML elements wherever it makes sense.
+
+Add another subpage. At the end, your page should have a landing page as well as two, internally linked subpages. Styles apply for subpages as well.
+
+In addition to styling, please purchase a domain for your portfolio. We've went over many services in class, do some price shopping and pick a domain name registrar of your choice.
+
+Submit a link to the git repository for this assignment.

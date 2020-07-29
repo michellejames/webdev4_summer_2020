@@ -1,0 +1,24 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Project 1\
+\
+This project combines everything we've learned in the past few weeks. The assignment is to make a portfolio-worthy website with at least two subpages.\
+\
+The site should follow all SEO and Accessibility guidelines we've discussed in class. This includes but is not limited to alt-tags, image optimization, the correct use of aria-labels, page titles, meta descriptions etc. Semantic HTML as well as responsive design is a must. I'm encouraging you to browse "the wire" and get inspired. Good design resources to get you started might be:\
+\
+www.dribbble.com\
+www.designspiration.com\
+www.awwwards.com/websites/sites_of_the_day\
+\
+The landing page as well as the two subpages must all be screenreader-friendly and optimized for SEO. Upon completion, upload the website to your newly purchased domain via the cPanel with your hosting provider or an FTP server. (Cyberduck, FileZilla, Transmit, etc) The site should be live and accessible.\
+\
+Please brainstorm about your potential website and let me know by Friday, July 31st what you want to build. \
+\
+The project is due two weeks from now, on August 10, 2020. Please feel free to reach out with any questions!\
+\
+Happy Coding! :)}

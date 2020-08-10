@@ -1,0 +1,12 @@
+CSS Grid
+
+Pick a website (a landing page will do) and rebuild it using CSS Grid.
+
+You can either design your own site or use an existing one and recreate it. 
+
+Here is a list of 30 grid layouts for inspiration:
+https://www.awwwards.com/30-grid-based-websites.html
+
+Try using mainly CSS Grid to place the content on the website. Also, try avoiding using percentages to determine width and instead aim for the fr unit.
+
+Submit a link to the git repository for this assignment.

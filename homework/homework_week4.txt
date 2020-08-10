@@ -15,8 +15,8 @@ If you need help picking a website I have two additional ideas for you:
 
 The landing page as well as the two subpages must all be screenreader-friendly and optimized for SEO. Upon completion, upload the website to your newly purchased domain via the cPanel with your hosting provider or an FTP server. (Cyberduck, FileZilla, Transmit, etc) The site should be live and accessible.
 
-Please brainstorm about your potential website and let me know by Friday, July 31st what you want to build.
+Please brainstorm about your potential website and let me know by Friday, July 31st, 3pm what you want to build.
 
 The project is due two weeks from now, on August 10, 2020. Please feel free to reach out with any questions!
 
-Happy Coding! :)}
+Happy Coding! :)
